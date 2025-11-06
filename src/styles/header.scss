@@ -13,7 +13,7 @@
 
   @include on-desktop {
     background-image: url(../images/header-bg-large.png);
-    height: 711px;
+    height: 100vh;
   }
 
   &__title {
